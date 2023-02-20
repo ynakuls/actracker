@@ -1,0 +1,357 @@
+{
+    "activities": [
+        {
+            "name": "autotimer.py - actracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2023-02-20 15:47:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2023-02-20 15:47:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:49:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2023-02-20 15:49:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2023-02-20 15:50:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2023-02-20 15:50:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2023-02-20 15:51:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:51:46"
+                }
+            ]
+        },
+        {
+            "name": "pypi.org",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:47:35"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:47:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:47:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2023-02-20 15:48:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:48:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:48:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:49:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:50:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:50:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2023-02-20 15:51:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2023-02-20 15:51:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2023-02-20 15:51:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:51:57"
+                }
+            ]
+        },
+        {
+            "name": "Add a comment...",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:47:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:48:19"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - actracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2023-02-20 15:47:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2023-02-20 15:51:48"
+                }
+            ]
+        },
+        {
+            "name": "activity.pyc - actracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2023-02-20 15:47:52"
+                }
+            ]
+        },
+        {
+            "name": "activity.py - actracker - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:47:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2023-02-20 15:47:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:48:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2023-02-20 15:48:05"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:48:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2023-02-20 15:48:24"
+                }
+            ]
+        },
+        {
+            "name": "github.com",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:48:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:48:20"
+                }
+            ]
+        },
+        {
+            "name": "Jump List for Microsoft Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:50:00"
+                }
+            ]
+        },
+        {
+            "name": "kafka python",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:50:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2023-02-20 15:50:03"
+                }
+            ]
+        },
+        {
+            "name": "Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:51:30"
+                }
+            ]
+        },
+        {
+            "name": "What\u2019s new with Firefox - More privacy, more protections. \u2014 Mozilla Firefox",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2023-02-20 15:51:32"
+                }
+            ]
+        },
+        {
+            "name": "WhatsApp",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2023-02-20 15:51:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2023-02-20 15:51:41"
+                }
+            ]
+        }
+    ]
+}
